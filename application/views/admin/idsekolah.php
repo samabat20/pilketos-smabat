@@ -55,7 +55,7 @@
 									);
 									echo form_input($form_attribute);
 								?>
-								<label class="label-control">Alamat Jln</label>
+								<label class="label-control">Alamat Jalan</label>
 								<?php
 									$form_attribute = array(
 										'type'		=> 'text',
@@ -106,7 +106,7 @@
 									<h2>Kepala Sekolah</h2>
 								</div>
 								<div class="box-content">
-									<label class="label-control">Nama Kelapa Sekolah</label>
+									<label class="label-control">Nama Kepala Sekolah</label>
 									<?php
 										$form_attribute = array(
 											'type'		=> 'text',

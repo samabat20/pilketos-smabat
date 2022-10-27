@@ -1,12 +1,12 @@
-<body style="background-image:url('<?php echo base_url(); ?>/asset/img/background.jpg'); background-size: 100%; width: 100%; background-repeat: no-repeat">
+<body style="background-image:url('<?php echo base_url(); ?>/asset/img/background.png'); background-size: 100%; width: 100%; background-repeat: no-repeat">
 <div class="container">
-<div class="box">
+<div class="box" style="background-color: white;width: 100%;">
 	<div class="box-inner">
 		<div class="box-header well">
-			<h2>Selamat Datang di E-Pilketos</h2>
+			<h2>Selamat Datang di E-Pilketos SMA Negeri 1 Bati-Bati</h2>
 		</div>
 		<div class="box-content">
-			<p>Silahkan Pilih Calon Ketua OSIS dibawah ini </p>
+			<p>Silahkan Pilih Calon Ketua OSIS dan Wakil Ketua OSIS dibawah ini!</p>
 			<hr/>
 			<br/><br/>
 			<div class="row">
@@ -16,11 +16,11 @@
 					<div class="col-lg-4">
 						<div class="box">
 							<div class="box-inner">
-								<div class="box-header well">
+								<div class="box-header well" style="width: 100%;" >
 									<h2 class="text-center"> NO <?php echo $loaddata['no']; ?>  ||  <?php echo $loaddata['nama']; ?> </h2>
 								</div>
 								<div class="box-content">
-									<img width="100%" height="400" src="<?php echo base_url(); ?>asset/img/<?php echo $loaddata['photo']; ?>"/></br/><br/>
+									<img width="100%" height="384" src="<?php echo base_url(); ?>asset/img/<?php echo $loaddata['photo']; ?>"/></br/><br/>
 									<?php
 										$form_attribute	= array(
 											'methode'	=> 'post',

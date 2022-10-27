@@ -1,8 +1,8 @@
-<body style="background-image:url('<?php echo base_url(); ?>/asset/img/background.jpg'); background-size: 100%; width: 100%; background-repeat: no-repeat">
+<body style="background-image:url('<?php echo base_url(); ?>/asset/img/background.png'); background-size: 100%; width: 100%; background-repeat: no-repeat">
 <div class="ch-container">
     <div class="row">
         <div class="col-md-12 center login-header">
-            <h2>Selamat Datang di E-Pilketos</h2>
+            <h2>Selamat Datang di E-Pilketos SMA Negeri 1 Bati-Bati</h2>
         </div>
         <!--/span-->
     </div><!--/row-->
@@ -10,7 +10,7 @@
     <div class="row">
         <div class="col-md-5 center login-box">
             <div class="alert alert-info">
-                Gunakan NISN anda Sebagai Username dan Password
+                Gunakan NIS anda Sebagai Username dan Password!
             </div>
 			<?php if($this->session->flashdata('failed')) { ?>
 				<div class="alert alert-danger alert-dismissible">

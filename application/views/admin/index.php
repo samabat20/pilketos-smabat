@@ -178,10 +178,12 @@
                 
             </div>
             <div class="box-content">
-                <p> E-Pilketos Adalah sebuah aplikasi yang didesain khusus untuk Pemilihan Ketua Osis <br/>
+                <p> "E-Pilketos adalah sebuah aplikasi yang didesain khusus untuk Pemilihan Ketua OSIS. <br/>
 					Aplikasi ini menggunakan Template <b>Charisma</b> dan dibangun menggunakan Framework <b>Code Igniter</b> 
+					<br/>
+					Dengan adanya Aplikasi ini saya harap dapat membantu sekolah untuk melakukan Voting Pemilihan Ketua dan Wakil Ketua OSIS secara online."
 					<br/><br/>
-					Dengan adanya Aplikasi ini saya harap dapat membatu sekolah untuk melakukan Vote Ketua OSIS
+				   (Aplikasi ini dimodifikasi oleh Tim Panitia Pemilihan OSIS SMA Negeri 1 Bati-Bati.)
 				</p>
             </div>
         </div>

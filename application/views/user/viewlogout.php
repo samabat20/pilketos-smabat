@@ -7,7 +7,7 @@
 			</div>
 			<div class="box-content">
 				<h4>Terima kasih Telah melakukan Voting</h4>
-				<p>Silahkan Logout dengan Menekan Tombol <b>Logout</b> Dibawah!</p>
+				<p>Silahkan Logout dengan Menekan Tombol <b>Logout</b> Dibawah ini!</p>
 				
 				<center><a href="<?php echo base_url(); ?>index.php/user/logout"><button type="button" class="btn btn-primary text-center"><span class="glyphicon glyphicon-log-out"></span> Logout</button></a></center>
 			</div>
