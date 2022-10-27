@@ -1,4 +1,4 @@
-<body style="background-image:url('<?php echo base_url(); ?>asset/img/background.jpg'); background-size: 100%; width: 100%; background-repeat: no-repeat">
+<body style="background-image:url('<?php echo base_url(); ?>/asset/img/background.jpg'); background-size: 100%; width: 100%; background-repeat: no-repeat">
 <div class="ch-container">        
     <div class="row">
         <div class="col-md-12 center login-header">
