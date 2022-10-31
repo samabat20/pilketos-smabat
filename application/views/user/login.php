@@ -10,7 +10,9 @@
     <div class="row">
         <div class="col-md-5 center login-box">
             <div class="alert alert-info">
-                Gunakan NIS anda Sebagai Username dan Password!
+                <p>Siswa: Masukan <strong><em>4 digit NIS anda</em></strong> Sebagai Username dan Password!</p>
+				<p>Guru dan TU: Masukan <strong><em>6 digit angka semi-acak</strong></em> yang diberikan Sebagai Username dan Password!</p>
+				<p>Mohon Jangan Menggunakan NIS/ID Orang Lain!</p>
             </div>
 			<?php if($this->session->flashdata('failed')) { ?>
 				<div class="alert alert-danger alert-dismissible">

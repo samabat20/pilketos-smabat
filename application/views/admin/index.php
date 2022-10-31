@@ -84,7 +84,7 @@
                   <h2>Reset Data Pemilihan</h2>
               </div>
              <div class="box-content">
-             <p>Fitur ini akan menghapus semua data Kecuali Indentitas Sekolah dan Data Kelas</p>
+             <p>Fitur ini akan menghapus semua data Kecuali Identitas Sekolah dan Data Kelas</p>
                 <p>Fitur ini digunakan Apabila telah selesai melakukan pemilihan dan telah Mengunduh <a href="<?php echo base_url('index.php/admin/cetakdaftarhadir'); ?>">Daftar Hadir</a> dan <a href="<?php echo base_url('index.php/admin/laporan'); ?>">Laporan Pemilihan</a> dan ingin Melakukan Pemilihan di Tahun berikutnya</p>
                 <?php if($this->session->flashdata('reset')) { ?>
 			    <div class="alert alert-success alert-dismissible">

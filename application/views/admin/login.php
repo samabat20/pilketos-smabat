@@ -10,7 +10,8 @@
     <div class="row">
         <div class="col-md-5 center login-box">
             <div class="alert alert-info">
-                <b>Silahkan Login Menggunakan Username dan Passsword Anda!</b>
+                <p><b>Silahkan Login Menggunakan Username dan Passsword Anda!</b></p>
+                <p><strong><em>DILARANG MENGAKSES TANPA SEIZIN PEMBINA OSIS DAN PANITIA!</em></strong></p>
             </div>
 			<?php if($this->session->flashdata('failed')) { ?>
 				<div class="alert alert-danger alert-dismissible">
